@@ -8,6 +8,7 @@ Visit live version at **https://arash-kariznovi.github.io/fund-me-front-end/**
   - integration testing
   - gas optimization
 
+![Alt text](./fundme.png "Optional Title")
 
 # Getting started 
 
