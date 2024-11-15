@@ -1,5 +1,7 @@
 ## Foundry
 
+This project is deployed on this address: 0xCb302e2Fc2e619245E8Eb039d123EfD9abDfE7a9
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
