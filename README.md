@@ -7,8 +7,8 @@
 
 ## Requirements
 
-- git
-- Foundry
+- **git**
+- **Foundry**
 
 ## Quick start
 
