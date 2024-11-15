@@ -7,6 +7,7 @@
   - integration testing
   - gas optimization
 
+![Alt text](./fundme.png "Optional Title")
 
 # Getting started 
 
